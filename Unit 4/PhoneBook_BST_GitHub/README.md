@@ -23,20 +23,7 @@ A **Binary Search Tree (BST)** is used:
 - A C++ compiler such as g++.
 - Any code editor or IDE (VS Code, Code::Blocks, Dev-C++, etc.).
 
-## How to Compile and Run
 
-### Windows (with MinGW g++)
-Open a terminal in the project folder and run:
-```bash
-g++ main.cpp -o phonebook
-phonebook
-```
-
-### Linux / macOS
-```bash
-g++ main.cpp -o phonebook
-./phonebook
-```
 
 ## Sample Run
 ```text
